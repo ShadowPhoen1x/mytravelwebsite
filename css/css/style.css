@@ -1,0 +1,25 @@
+header {
+    text-align: center;
+}
+nav {
+    padding: 10px;
+    background-color: red;
+}
+nav a:hover{
+    color: blueviolet;
+}
+a:link{
+    color: greenyellow;
+}
+a:visited{
+    color: brown;
+}
+blockquote{
+    color: aqua;
+}
+header > img{
+    padding: 0px;
+    margin: 0px;
+    width: 800px;
+    height: 300px;
+}
